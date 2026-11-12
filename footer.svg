@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120" shape-rendering="crispEdges" role="img" aria-label="Thanks for playing. Continue?">
-<style>.t{font-family:'Courier New', Courier, monospace;font-weight:bold}.blink{animation:blink 1.1s steps(1) infinite}@keyframes blink{0%,60%{opacity:1}61%,100%{opacity:0}}</style>
-<rect width="1000" height="120" fill="#0B1220"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120" shape-rendering="crispEdges" role="img" aria-label="Thanks for stopping by. Continue?">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1D5FC4"/><stop offset="1" stop-color="#4FA8F5"/></linearGradient>
+<style>.t{font-family:'Courier New', Courier, monospace;font-weight:bold}.blink{animation:blink 1.1s steps(1) infinite}@keyframes blink{0%,60%{opacity:1}61%,100%{opacity:0}}</style></defs>
+<rect width="1000" height="120" fill="url(#bg)"/>
 <rect x="4" y="4" width="992" height="112" fill="none" stroke="#FF9900" stroke-width="4"/>
-<text class="t" x="500" y="52" text-anchor="middle" font-size="26" fill="#E6EDF3" letter-spacing="4">THANKS FOR STOPPING BY</text>
-<text class="t blink" x="500" y="88" text-anchor="middle" font-size="18" fill="#38BDF8" letter-spacing="5">CONTINUE?  ▶ LET'S BUILD SOMETHING</text>
+<text class="t" x="500" y="52" text-anchor="middle" font-size="26" fill="#FFF4D6" letter-spacing="4">THANKS FOR STOPPING BY</text>
+<g class="blink"><polygon points="310,74 310,92 326,83" fill="#FFD23F"/><text class="t" x="514" y="90" text-anchor="middle" font-size="18" fill="#FFD23F" letter-spacing="5">CONTINUE?  LET'S BUILD SOMETHING</text></g>
 </svg>
