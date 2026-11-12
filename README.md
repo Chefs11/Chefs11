@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/alan-salgado-arias-29821a408/">
-    <img src="assets/header.svg" alt="Alan Salgado Arias - Software Developer - Cloud Quest: AWS" width="100%">
+    <img src="header.svg" alt="Alan Salgado Arias - Software Developer - Cloud Quest: AWS" width="100%">
   </a>
 </p>
 
@@ -17,20 +17,20 @@
   <a href="https://github.com/Chefs11?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-0B1220?style=for-the-badge&labelColor=38BDF8&color=0B1220&logo=github&logoColor=white" alt="Repositories"></a>
 </p>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## 🎒 Inventory
 
 <p align="center">
-  <img src="assets/skills.svg" alt="Skill inventory: Java, Kotlin, TypeScript, Python, Spring Boot, NestJS, Next.js, React, PostgreSQL, MySQL, Redis, Git. AWS quest in progress: EC2, S3, Lambda, IAM." width="85%">
+  <img src="skills.svg" alt="Skill inventory: Java, Kotlin, TypeScript, Python, Spring Boot, NestJS, Next.js, React, PostgreSQL, MySQL, Redis, Git. AWS quest in progress: EC2, S3, Lambda, IAM." width="85%">
 </p>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## 🏆 Main quest · CampusReserve
 
-<!-- Replace with a screenshot of the project: assets/campusreserve.png -->
-<!-- <p align="center"><img src="assets/campusreserve.png" alt="CampusReserve preview" width="80%"></p> -->
+<!-- Replace with a screenshot of the project: campusreserve.png -->
+<!-- <p align="center"><img src="campusreserve.png" alt="CampusReserve preview" width="80%"></p> -->
 
 Multiplatform reservation system for campus sports facilities. I contributed to the app and wrote the QA test cases and technical report following **IEEE 730-2014** and **ISO/IEC 25010**.
 
@@ -38,7 +38,7 @@ Multiplatform reservation system for campus sports facilities. I contributed to 
 
 `Kotlin` `Android` `React` `Spring Boot` `MySQL` `REST API` `QA`
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## 🎮 Side quests
 
@@ -50,7 +50,7 @@ Multiplatform reservation system for campus sports facilities. I contributed to 
 <!-- Add more projects here. Template:
 | **Project name** | One-line description | `Tech` `Tech` | -->
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## ☁️ Cloud quest log
 
@@ -59,7 +59,7 @@ I'm focusing my next projects on **AWS**. Services on my roadmap: `EC2` `S3` `La
 <!-- When you finish something, move it here, e.g.:
 - ✅ Deployed <project> on AWS (<services>) · <link> -->
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## 📊 Stats
 
@@ -76,8 +76,8 @@ I'm focusing my next projects on **AWS**. Services on my roadmap: `EC2` `S3` `La
   <img src="https://raw.githubusercontent.com/Chefs11/Chefs11/output/github-snake-dark.svg" alt="Snake eating my contributions" width="100%">
 </p>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 <p align="center">
-  <img src="assets/footer.svg" alt="Thanks for stopping by. Continue?" width="80%">
+  <img src="footer.svg" alt="Thanks for stopping by. Continue?" width="80%">
 </p>
